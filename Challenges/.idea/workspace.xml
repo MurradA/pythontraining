@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae586e8f-4ad8-4703-9958-9840c7016e11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WlqfKR73vGsZHJnJQRiQnLOrCP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.P115">
+    <configuration name="P111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P112" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P112.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P113" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P113.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P114" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P114.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P115" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P115.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.P115" />
+        <item itemvalue="Python.P114" />
+        <item itemvalue="Python.P113" />
+        <item itemvalue="Python.P112" />
+        <item itemvalue="Python.P111" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae586e8f-4ad8-4703-9958-9840c7016e11" name="Default Changelist" comment="" />
+      <created>1579734630371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579734630371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="115" key="#Notifications" timestamp="1580171716924">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="640" y="115" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1580171716924" />
+    <state x="369" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579779219335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579779219335" />
+    <state x="812" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580404524894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="812" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1580404524894" />
+    <state width="689" height="245" key="GridCell.Tab.0.bottom" timestamp="1580746106286">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580563133740" />
+    <state width="689" height="245" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1580746106286" />
+    <state width="689" height="245" key="GridCell.Tab.0.center" timestamp="1580746106285">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580563133739" />
+    <state width="689" height="245" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1580746106285" />
+    <state width="689" height="245" key="GridCell.Tab.0.left" timestamp="1580746106285">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580563133739" />
+    <state width="689" height="245" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1580746106285" />
+    <state width="689" height="245" key="GridCell.Tab.0.right" timestamp="1580746106286">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580563133740" />
+    <state width="689" height="245" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1580746106286" />
+    <state width="689" height="303" key="GridCell.Tab.1.bottom" timestamp="1580404550932">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="689" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580404550932" />
+    <state width="689" height="303" key="GridCell.Tab.1.center" timestamp="1580404550931">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="689" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580404550931" />
+    <state width="689" height="303" key="GridCell.Tab.1.left" timestamp="1580404550931">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="689" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580404550931" />
+    <state width="689" height="303" key="GridCell.Tab.1.right" timestamp="1580404550932">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="689" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580404550932" />
+    <state x="443" y="89" key="SettingsEditor" timestamp="1580081119126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="443" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580081119126" />
+    <state x="751" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1580746196381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="751" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580746196381" />
+    <state x="750" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579964133584">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="750" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579964133584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/P073A.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
